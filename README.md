@@ -5,8 +5,8 @@ This project aims to determine the total cost of a shopping basket of food produ
 
 
 ## input image :
-[![Watch the Image](./input.jpg)
+![Watch the Image](./input.jpg)
 
 ## output image:
-[![Watch the Image](./outputs/output.png)
+![Watch the Image](./outputs/output.jpg)
 
